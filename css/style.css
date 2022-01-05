@@ -1,0 +1,13 @@
+body, footer, nav{
+    margin-left: 10%; 
+    margin-right: 10%;
+}
+body{
+    padding-top: 70px;
+    padding-bottom: 125px;
+    background-color: whtite;
+    min-height: 100vh; 
+}
+html{
+    background-image: url(../img/fondo.jpg);
+}
