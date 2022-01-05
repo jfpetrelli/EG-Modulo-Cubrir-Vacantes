@@ -1,2 +1,2 @@
-# cubrir_vacantes
-Entornos Graficos - Modulo Cubrir Vacantes
+# Entornos Graficos
+Modulo Cubrir Vacantess
