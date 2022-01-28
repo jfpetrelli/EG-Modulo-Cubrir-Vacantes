@@ -1,7 +1,7 @@
 <?php
 
 echo $_GET['to'];
-echo $_GET['\n'];
+echo "<br>";
 
 echo $_GET['subject'];
 
